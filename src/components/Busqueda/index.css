@@ -1,0 +1,10 @@
+.buscador,
+.respuesta {
+  display: flex;
+  justify-content: center;
+}
+.control {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
